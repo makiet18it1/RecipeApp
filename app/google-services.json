@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "548276829008",
+    "project_id": "recipeapp245",
+    "storage_bucket": "recipeapp245.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548276829008:android:49eb0318afeaf72e298a55",
+        "android_client_info": {
+          "package_name": "vku.makiet.recipeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548276829008-gbu4cmi1i2u3s26st33mens5u3od5osp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vku.makiet.recipeapp",
+            "certificate_hash": "a605b2fb5b290ff3e1b6664bac226dc108284f87"
+          }
+        },
+        {
+          "client_id": "548276829008-m843otvd3did2vln7gps5d4c18ila3cs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVFTZfsBh677z-fZqAFKIX6Qr9nLc7fMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548276829008-m843otvd3did2vln7gps5d4c18ila3cs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

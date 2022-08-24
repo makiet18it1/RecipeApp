@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RecipeApp</string>
+    <string name="user_name">Enter UserName</string>
+    <string name="email">Enter Email</string>
+    <string name="password">Enter Password</string>
+    <string name="confirm_password">Enter Confirm Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="confirm_password_a">Confirm Password</string>
+    <string name="password_a">Password</string>
+    <string name="user_name_a">User Name</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email_a">Email</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

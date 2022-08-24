@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/_10sdp"
+    android:orientation="vertical"
+    tools:context=".DetailActivity">
+
+    <Button
+        android:id="@+id/buttonBack"
+        android:layout_width="@dimen/_15sdp"
+        android:layout_height="@dimen/_20sdp"
+        android:layout_marginVertical="@dimen/_10sdp"
+        android:background="@drawable/ic_group_15" />
+
+    <ImageView
+        android:id="@+id/imgRecipe"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_150sdp"
+        android:scaleType="fitXY"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:id="@+id/tvName"
+        android:textSize="@dimen/_20sdp"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:maxLines="2"
+        android:textColor="@color/text"
+        android:fontFamily="@font/maianbo"
+        android:layout_width="match_parent"
+        android:layout_margin="@dimen/_5ssp"
+        android:layout_height="@dimen/_40sdp"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/tvDescription"
+        android:textSize="@dimen/_15sdp"
+        android:textColor="@color/text"
+        android:padding="@dimen/_5ssp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
+</LinearLayout>
